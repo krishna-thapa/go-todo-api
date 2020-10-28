@@ -1,3 +1,6 @@
+## Test practice from:
+- https://medium.com/@carloslopez_19744/adroid-todo-app-gotodo-part-1-creating-an-api-restful-with-docker-go-and-postgresql-beceddcb4364
+
 ## About
 
 Backend project that creates a RESTful API in Golang for the todo project. I have created a front-end app using the flutter. 
@@ -7,6 +10,7 @@ Backend project that creates a RESTful API in Golang for the todo project. I hav
 - Web Framework Gin
 - PostgreSql for the database
 - Docker to run Postgres
+- Gin JWT for Auth service
 
 ## Summary
 - CRUD operation on the todo list that are stored in the database through RESTful API
